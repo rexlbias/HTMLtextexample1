@@ -1,4 +1,23 @@
 # HTMLtextexample1
-The is an example using HTML with text markup.
-The point of the exercise was to show markup, hopefully used properly. <title> Titles, <h1, h2> headers, <p> paragraphs, <em> emphasize, <hr /> break in elemnents, <b> bold, <i> italic, <q> quotes, <abrr> abbriviation.
-Story is based on the day I adopted King, my dog.
+
+
+This project is an example using HTML with text markup.
+
+Completed project using VS Code
+
+Programing Language
+Html
+
+Included examples:
+Title
+#header
+##header
+paragraph
+*italic*
+**bold**
+emphasize
+break in elemnents  
+> quotes
+abbriviations
+
+Project is completed
